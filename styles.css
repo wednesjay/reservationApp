@@ -76,8 +76,8 @@ form input {
 }
 
 form input[type="submit"] {
-    background: rgba(210, 75, 75, 1);
-    /* background: rgba(151, 15, 15, 1); */
+    /* background: rgba(210, 75, 75, 1); */
+    background: rgba(151, 15, 15, 1);
     color: white;
     cursor: pointer;
     width: 300px;
